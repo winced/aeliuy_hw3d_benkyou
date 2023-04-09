@@ -1,0 +1,1 @@
+static const float specular_power_factor = 100.0f;
